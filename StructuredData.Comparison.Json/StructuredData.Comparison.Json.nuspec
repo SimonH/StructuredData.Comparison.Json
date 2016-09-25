@@ -5,10 +5,10 @@
     <version>0.8.0.0</version>
     <authors>Simon Hanlon</authors>
     <owners>Simon Hanlon</owners>
-    <description>Implemmentation of StructuredData.Comparison for Xml using LINQ to Xml (ie. XElement.Parse())</description>
+    <description>Implemmentation of StructuredData.Comparison for Json using Newtonsoft.Json</description>
     <projectUrl>http://github.com/simonH/StructuredData.Comparison.Json</projectUrl>
     <licenseUrl>http://www.opensource.org/licenses/mit-license.php</licenseUrl>
-    <tags>xml json structured comparison</tags>
+    <tags>json structured comparison</tags>
     <language>en-us</language>
     <dependencies>
       <dependency id="StructuredData.Comparison" version="[0.8.0.0]" />
