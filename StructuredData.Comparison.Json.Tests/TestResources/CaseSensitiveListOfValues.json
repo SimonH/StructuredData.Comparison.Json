@@ -1,0 +1,24 @@
+﻿{
+    "Content": {
+        "Items": {
+            "Item": {
+                "Categorisations": [
+                    "BND"
+                ],
+                "Classifications": [
+                    {
+                        "Name": "StructuredData.Comparison_Settings",
+                        "ListOptions": "OfValues",
+                        "StringComparison": "Ordinal" 
+                    },
+                    "a",
+                    "B",
+                    "c",
+                    "d",
+                    "e",
+                    "f"
+                ] 
+            } 
+        }
+    }
+}

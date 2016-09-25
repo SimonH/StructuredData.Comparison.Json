@@ -1,0 +1,15 @@
+﻿{
+
+    "value": "first",
+    "anotherValue": "second",
+    "MyList": [
+        {
+            "First": "one",
+            "Second": "eins"
+        },
+        {
+            "First": "four",
+            "Second": "vier"
+        },
+    ]
+}

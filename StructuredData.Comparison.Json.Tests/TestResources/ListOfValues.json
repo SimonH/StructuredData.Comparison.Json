@@ -1,0 +1,19 @@
+﻿{
+    "Content": {
+        "Items": {
+            "Item": {
+                "Categorisations": [
+                    "BND"
+                ],
+                "Classifications": [
+                    "a",
+                    "b",
+                    "c",
+                    "d",
+                    "e",
+                    "f"
+                ] 
+            } 
+        }
+    }
+}

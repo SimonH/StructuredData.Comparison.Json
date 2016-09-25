@@ -1,0 +1,27 @@
+﻿{
+
+    "value": "first",
+    "anotherValue": "second",
+    "MyList": [
+        {
+            "First": "one",
+            "Second": "eins"
+        },
+        {
+            "First": "two",
+            "Second": "zwei"
+        },
+        {
+            "First": "three",
+            "Second": "drei"
+        },
+        {
+            "First": "four",
+            "Second": "vier"
+        },
+        {
+            "First": "five",
+            "Second": "funf"
+        },
+    ]
+}
