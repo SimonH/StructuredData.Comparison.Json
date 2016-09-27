@@ -2,7 +2,7 @@
 <package xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <metadata xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
     <id>StructuredData.Comparison.Json</id>
-    <version>0.8.0.0</version>
+    <version>0.9.0.0</version>
     <authors>Simon Hanlon</authors>
     <owners>Simon Hanlon</owners>
     <description>Implemmentation of StructuredData.Comparison for Json using Newtonsoft.Json</description>
@@ -11,7 +11,7 @@
     <tags>json structured comparison</tags>
     <language>en-us</language>
     <dependencies>
-      <dependency id="StructuredData.Comparison" version="[0.8.0.0]" />
+      <dependency id="StructuredData.Comparison" version="0.9.0.0" />
     </dependencies>
   </metadata>
   <files>
